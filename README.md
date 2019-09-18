@@ -1,7 +1,9 @@
 # CSYE7270_assignment1_ballGame
 
 Unity3D
+
 author: Jiawei Zhao
+
 An assignment of CSYE7270 Building Virtual Environments, Instructor: Nik Bear Brown
 
 reference:
